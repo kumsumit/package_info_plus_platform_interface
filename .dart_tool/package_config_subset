@@ -1,3 +1,7 @@
+flutter_lints
+3.1
+file:///home/sumit/.pub-cache/git/flutter_lints-839a835b4577b79bee3803328154b54bda02d646/
+file:///home/sumit/.pub-cache/git/flutter_lints-839a835b4577b79bee3803328154b54bda02d646/lib/
 plugin_platform_interface
 2.19
 file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/
@@ -74,10 +78,6 @@ fixnum
 2.19
 file:///home/sumit/.pub-cache/hosted/pub.dev/fixnum-1.1.0/
 file:///home/sumit/.pub-cache/hosted/pub.dev/fixnum-1.1.0/lib/
-flutter_lints
-2.19
-file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/
-file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/lib/
 glob
 2.19
 file:///home/sumit/.pub-cache/hosted/pub.dev/glob-2.1.2/
@@ -167,7 +167,7 @@ yaml
 file:///home/sumit/.pub-cache/hosted/pub.dev/yaml-3.1.2/
 file:///home/sumit/.pub-cache/hosted/pub.dev/yaml-3.1.2/lib/
 package_info_plus_platform_interface
-2.18
+3.1
 file:///home/sumit/StudioProjects/plus_plugins/packages/package_info_plus/package_info_plus_platform_interface/
 file:///home/sumit/StudioProjects/plus_plugins/packages/package_info_plus/package_info_plus_platform_interface/lib/
 sky_engine

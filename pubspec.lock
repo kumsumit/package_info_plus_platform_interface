@@ -153,10 +153,11 @@ packages:
   flutter_lints:
     dependency: "direct dev"
     description:
-      name: flutter_lints
-      sha256: a25a15ebbdfc33ab1cd26c63a6ee519df92338a9c10f122adda92938253bef04
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "839a835b4577b79bee3803328154b54bda02d646"
+      url: "https://github.com/kumsumit/flutter_lints.git"
+    source: git
     version: "2.0.3"
   flutter_test:
     dependency: "direct dev"
@@ -354,5 +355,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=3.3.0"
+  dart: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
