@@ -275,10 +275,10 @@
       "name": "package_info_plus_platform_interface",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.2"
     }
   ],
-  "generated": "2023-12-02T00:23:08.816536Z",
+  "generated": "2023-12-02T00:23:37.413588Z",
   "generator": "pub",
   "generatorVersion": "3.2.1"
 }
