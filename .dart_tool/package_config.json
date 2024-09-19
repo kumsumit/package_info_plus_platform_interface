@@ -3,21 +3,27 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-61.0.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-72.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "_macros",
+      "rootUri": "file:///home/sumit/softwares/flutter/bin/cache/dart-sdk/pkg/_macros",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/analyzer-5.13.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/analyzer-6.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "args",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/args-2.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "async",
@@ -45,9 +51,9 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.9.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "characters",
@@ -63,9 +69,9 @@
     },
     {
       "name": "code_builder",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/code_builder-4.6.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/code_builder-4.10.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "collection",
@@ -81,15 +87,15 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/crypto-3.0.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/dart_style-2.3.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/dart_style-2.3.7",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "fake_async",
@@ -113,11 +119,11 @@
       "name": "flutter",
       "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_lints-839a835b4577b79bee3803328154b54bda02d646/",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -125,7 +131,7 @@
       "name": "flutter_test",
       "rootUri": "file:///home/sumit/softwares/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "glob",
@@ -134,10 +140,28 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "name": "leak_tracker",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker-10.0.5",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "logging",
@@ -146,28 +170,34 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "matcher",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "name": "macros",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/macros-0.1.2-main.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/matcher-0.12.16+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/meta-1.10.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/meta-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "mockito",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "package_config",
@@ -177,15 +207,15 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-5b87c0b21d7dfa69ff1b00993bc6f895ab5b0de5/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
     },
     {
       "name": "pub_semver",
@@ -201,7 +231,7 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/source_gen-1.4.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/source_gen-1.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -237,9 +267,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/test_api-0.7.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "typed_data",
@@ -254,16 +284,16 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "vm_service",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/vm_service-14.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "watcher",
       "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/watcher-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
-    },
-    {
-      "name": "web",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/web-0.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
     },
     {
       "name": "yaml",
@@ -278,7 +308,10 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2023-12-02T00:23:37.413588Z",
+  "generated": "2024-09-19T15:31:05.215736Z",
   "generator": "pub",
-  "generatorVersion": "3.2.1"
+  "generatorVersion": "3.5.3",
+  "flutterRoot": "file:///home/sumit/softwares/flutter",
+  "flutterVersion": "3.24.3",
+  "pubCache": "file:///home/sumit/.pub-cache"
 }

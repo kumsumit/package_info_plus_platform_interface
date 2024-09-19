@@ -8,7 +8,7 @@ repository: https://github.com/fluttercommunity/plus_plugins/tree/main/packages/
 dependencies:
   flutter:
     sdk: flutter
-  meta: ^1.15.1
+  meta: ^1.15.0
   plugin_platform_interface:
     git: https://github.com/kumsumit/plugin_platform_interface.git
 
