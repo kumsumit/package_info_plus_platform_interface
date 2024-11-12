@@ -123,9 +123,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-4.0.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.5"
     },
     {
       "name": "flutter_test",
@@ -159,9 +159,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-4.0.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.5"
     },
     {
       "name": "logging",
@@ -308,10 +308,10 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-09-19T15:31:05.215736Z",
+  "generated": "2024-11-12T17:20:03.961226Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///home/sumit/softwares/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.4",
   "pubCache": "file:///home/sumit/.pub-cache"
 }
